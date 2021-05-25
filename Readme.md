@@ -1,6 +1,6 @@
 # Building a 2D Convolutional Neural Network using Numpy
 
-*This is an **attempt** to build a convolutional neural network using numpy so the output might **not be entirely as expected**. The network is composed of three layer classes (Convolution, ReLu, and Pooling) and a kernel class. The project idea is based off this article: https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html*
+*This is an **attempt** to build a convolutional neural network. The network is composed of three layer classes (Convolution, ReLu, and Pooling) and a kernel class. The project idea is based off this article: https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html*
 
 ### Class: Kernel
 The kernel class takes in a 2D array with a shape of 3*3.
